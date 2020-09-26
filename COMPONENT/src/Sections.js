@@ -1,0 +1,2 @@
+// Stateful{horoChoice:'}
+//list out horo categories. if they choose scorpio then we setState with choice, and pass down choice to Individual.js method that fires axios to get 3rd party API horo & render Individual 
